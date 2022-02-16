@@ -1,11 +1,11 @@
-## Exchange Rate (Small Learning Project)
+## Currency Convertor (Small Learning Project)
 
 Select countries to get the exchange rate for a specific amount of money.
 
 ## Project Specifications
 
-- Display UI with 2 select lists for countries and 2 inputs for amounts
+- Display UI with 2 select lists for countries
 - Fetch exchange rates from API (https://api.exchangerate-api.com)
-- Display the values for both countries
+- Display the exchange result
 - Update values on amount change
-- Swap country rates
+- Switch country rates
