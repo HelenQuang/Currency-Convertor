@@ -9,3 +9,5 @@ Select countries to get the exchange rate for a specific amount of money.
 - Display the exchange result
 - Update values on amount change
 - Switch country rates
+
+## DEMO Link
